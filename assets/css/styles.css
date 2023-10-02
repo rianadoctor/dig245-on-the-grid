@@ -1,2 +1,17 @@
+div {
+	background-color:white;
+	padding: 2px;
+}
 
-/* css */
+
+.col {
+	float: left;
+	margin: 3px 8px;
+	width: 15%;
+    
+}
+
+.img-fluid{
+    border-radius: 5%;
+}
+
